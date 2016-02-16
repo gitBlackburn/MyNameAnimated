@@ -1,3 +1,3 @@
 # My Name Animated
 
-My name animated using javaScript. 
+My name animated using JavaScript. 
